@@ -1,5 +1,8 @@
 # awesome-julia
-A curated list of Julia packages, resources, books and so on
+A curated list of Julia packages, resources, books and so on.
+
+---THIS IS A WORK IN PROGRESS! PLEASE CONTRIBUTE---
+For now I've just merged all files from https://github.com/svaksha/Julia.jl into this single .rmd
 
 # Libraries
 
