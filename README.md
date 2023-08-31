@@ -3509,6 +3509,7 @@ __Hash tables, Linked Lists, Functional / Trees data structures__
 + [MinimalPerfectHashes.jl](https://github.com/soundcloud/MinimalPerfectHashes.jl) :: An implementation of minimal perfect hash function generation as described in Czech et. al. 1992. http://bit.ly/137iukS
 + [MolecularGraph.jl](https://github.com/mojaie/MolecularGraph.jl) :: Graph-based molecule modeling toolkit for cheminformatics
 + [Multigraphs.jl](https://github.com/QuantumBFS/Multigraphs.jl)  :: A multigraph extension of LightGraphs.jl
++ [MultilayerGraphs.jl](https://github.com/JuliaGraphs/MultilayerGraphs.jl): A Julia package for the creation, manipulation and analysis of the structure, dynamics and functions of multilayer graphs. 
 + [Named.jl](https://github.com/HarlanH/Named.jl) :: Julia named index and named vector types.
 + [NetworkDynamics.jl](https://github.com/FHell/NetworkDynamics.jl) :: Julia package for working with Dynamics on Networks.
 + [Networks.jl](https://github.com/daviddelaat/Networks.jl) :: A library for working with Graphs in Julia.
