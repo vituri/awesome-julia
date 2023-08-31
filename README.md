@@ -61,15 +61,15 @@ A curated list of Julia packages, resources, books and so on.
 
 # Papers
 
-[Julia for biologists](https://www.nature.com/articles/s41592-023-01832-z)
+- [Julia for biologists](https://www.nature.com/articles/s41592-023-01832-z)
 
 # Tutorials
 
 # Youtube channels
 
-- https://www.youtube.com/@TheJuliaLanguage
+- https://www.youtube.com/@TheJuliaLanguage: the official Julia language channel.
 
-- https://www.youtube.com/@doggodotjl
+- https://www.youtube.com/@doggodotjl: Millions of tutorials presented by a dog.
 
 
 
