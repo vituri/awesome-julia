@@ -45,19 +45,19 @@ A curated list of Julia packages, resources, books and so on.
 
 # Books
 
-[Bayesian Statistics using Julia and Turing](https://storopoli.io/Bayesian-Julia/)
+- [Bayesian Statistics using Julia and Turing](https://storopoli.io/Bayesian-Julia/)
 
-[Julia for Optimization and Learning](https://juliateachingctu.github.io/Julia-for-Optimization-and-Learning/stable/)
+- [Julia for Optimization and Learning](https://juliateachingctu.github.io/Julia-for-Optimization-and-Learning/stable/)
 
-[Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
+- [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
 
-[Data Science in Julia for Hackers](https://datasciencejuliahackers.com/)
+- [Data Science in Julia for Hackers](https://datasciencejuliahackers.com/)
 
-[Data Science Tutorials in Julia](https://juliaai.github.io/DataScienceTutorials.jl/)
+- [Data Science Tutorials in Julia](https://juliaai.github.io/DataScienceTutorials.jl/)
 
-[Ciência de Dados e Computação Científica com Julia](https://storopoli.io/Computacao-Cientifica/) (in Portuguese)
+- [Ciência de Dados e Computação Científica com Julia](https://storopoli.io/Computacao-Cientifica/) (in Portuguese)
 
-[Julia Data Science]([https://syl1.gitbook.io/julia-language-a-concise-tutorial/](https://juliadatascience.io/)
+- [Julia Data Science](https://juliadatascience.io/)
 
 # Papers
 
