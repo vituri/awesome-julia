@@ -3,8 +3,6 @@ A curated list of Julia packages, resources, books and so on.
 
 ---THIS IS A WORK IN PROGRESS! PLEASE CONTRIBUTE---
 
-For now I've just merged all files from  into this single .md
-
 # Libraries
 
 ## GUIs
