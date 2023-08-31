@@ -67,11 +67,9 @@ A curated list of Julia packages, resources, books and so on.
 
 # Youtube channels
 
-https://www.youtube.com/@TheJuliaLanguage
+- https://www.youtube.com/@TheJuliaLanguage
 
-https://www.youtube.com/@doggodotjl
-
-
+- https://www.youtube.com/@doggodotjl
 
 
 
@@ -83,7 +81,14 @@ https://www.youtube.com/@doggodotjl
 
 
 
-========= below is just [julia.jl](https://github.com/svaksha/Julia.jl) merged! copy data from there and put it on the lists above, and possibly add more items ==============
+
+====================== 
+====================== 
+
+below is just [julia.jl](https://github.com/svaksha/Julia.jl) merged! copy data from there and put it on the lists above, and possibly add more items
+
+====================== 
+====================== 
 
 
 
