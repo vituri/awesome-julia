@@ -9,7 +9,13 @@ A curated list of Julia packages, resources, books and so on.
 
 ## Tools
 
+- [Revise.jl](https://github.com/timholy/Revise.jl): Automatically update function definitions in a running Julia session
+
+- [BenchmarkTools.jl](https://github.com/JuliaCI/BenchmarkTools.jl): A benchmarking framework for the Julia language
+
 ## Machine learning
+
+- [MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl): A Julia machine learning framework
 
 ## Deep learning
 
@@ -95,14 +101,6 @@ below is just [julia.jl](https://github.com/svaksha/Julia.jl) merged! copy data 
 
 # From Julia.jl
 
-
-# ACTUARIAL-SCIENCE.md
-
-+ [§1. ECONOMETRICS](#1-ECONOMETRICS)
-+ [§2. FINANCE](#2-FINANCE)
-
-----
-----
 
 # §1. ECONOMETRICS <span id="1-ECONOMETRICS"><span>
 
