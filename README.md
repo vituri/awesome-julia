@@ -1,86 +1,11 @@
 # awesome-julia
+
 A curated list of Julia packages, resources, books and so on.
 
----THIS IS A WORK IN PROGRESS! PLEASE CONTRIBUTE---
+Check the website link provided by [Wen Wei Tseng](https://github.com/sosiristseng):
 
-# Libraries
+[https://gensjulia.pages.dev/]()
 
-## GUIs
+Contribute with PRs to the repo
 
-## Tools
-
-- [Revise.jl](https://github.com/timholy/Revise.jl): Automatically update function definitions in a running Julia session
-
-- [BenchmarkTools.jl](https://github.com/JuliaCI/BenchmarkTools.jl): A benchmarking framework for the Julia language
-
-## Machine learning
-
-- [MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl): A Julia machine learning framework
-
-## Deep learning
-
-- [Flux.jl](https://github.com/FluxML/Flux.jl): A library for machine learning implemented in Julia. Documentation: https://fluxml.ai/Flux.jl/stable/
-
-- [model-zoo](https://github.com/FluxML/model-zoo): A repository containing various demonstrations of the Flux machine learning library that can be freely used as a starting point for your own models.
-
-## Mathematics
-
-### Topology
-- [GeometricDatasets.jl](https://github.com/JuliaTDA/GeometricDatasets.jl): For datasets usual in topology, transformations and samples
-
-- [TDAmapper.jl](https://github.com/JuliaTDA/TDAmapper.jl): Mapper-like algorithms for clustering and graph-reducing high-dimensional data;
-
-- [ToMATo.jl](https://github.com/JuliaTDA/ToMATo.jl): the ToMATo clustering algorithm from https://geometrica.saclay.inria.fr/data/Steve.Oudot/clustering/.
-
-- [Ripserer.jl](https://github.com/mtsch/Ripserer.jl): calculate the Vietoris-Rips filtration and homology, among other things.
-- [PersistenceDiagrams.jl](https://github.com/mtsch/PersistenceDiagrams.jl): create persistence images from persistence diagrams.
-
-### Metric space and clustering
-
-- [Distances.jl](https://github.com/JuliaStats/Distances.jl): efficient distance calculation.
-
-- [NearestNeighbors.jl](https://github.com/KristofferC/NearestNeighbors.jl): nearest neighbors search.
-
-- [Clustering.jl](https://github.com/JuliaStats/Clustering.jl): clustering algorithms.
-
-### Graphs
-
-- [Graphs.jl](https://github.com/JuliaGraphs/Graphs.jl): An optimized graphs package for the Julia programming language.
-
-- [MultilayerGraphs.jl](https://github.com/JuliaGraphs/MultilayerGraphs.jl): A Julia package for the creation, manipulation and analysis of the structure, dynamics and functions of multilayer graphs.
-
-# Books
-
-- [Bayesian Statistics using Julia and Turing](https://storopoli.io/Bayesian-Julia/)
-
-- [Julia for Optimization and Learning](https://juliateachingctu.github.io/Julia-for-Optimization-and-Learning/stable/)
-
-- [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
-
-- [Data Science in Julia for Hackers](https://datasciencejuliahackers.com/)
-
-- [Data Science Tutorials in Julia](https://juliaai.github.io/DataScienceTutorials.jl/)
-
-- [Ciência de Dados e Computação Científica com Julia](https://storopoli.io/Computacao-Cientifica/) (in Portuguese)
-
-- [Julia Data Science](https://juliadatascience.io/)
-
-# Papers
-
-- [Julia for biologists](https://www.nature.com/articles/s41592-023-01832-z)
-
-# Tutorials
-
-# Youtube channels
-
-- https://www.youtube.com/@TheJuliaLanguage: the official Julia language channel.
-
-- https://www.youtube.com/@doggodotjl: Millions of tutorials presented by a dog.
-
-
-
-
-
-
-
-
+[https://github.com/sosiristseng/gensjulia]()
